@@ -7,6 +7,7 @@ This is running Next 12.3.4 to show issue with missing function response.cookies
 
 First, add .env details 
 
+Then run 
 ```bash
 yarn dev
 ```
